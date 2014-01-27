@@ -3,6 +3,6 @@ namespace KGzznnn
     public class iNeed
     {
         
-        Threading.Thread.Sleep(10222);
+        Threading.Thread.Sleep(10223332);
     }
 }
